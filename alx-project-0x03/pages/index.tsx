@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import { PageRouteProps } from "@/interfaces";
 
 export default function Home(){
-  const router = useRouter()
+  const router = useRouter();
 
   // Imperativ routing with useRouter
 
